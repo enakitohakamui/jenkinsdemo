@@ -1,2 +1,1 @@
-print("Salut din jenkinsdemo si Python")
-print("linie noua")
+print("Salut din jenkinsdemo si Python 1231")
